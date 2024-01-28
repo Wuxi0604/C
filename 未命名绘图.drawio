@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T08:01:40.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.0.2" etag="5KsEol6mr85z5EmZW6TX" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-28T08:02:54.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="DTbfozfduL6EqzzV4LcR" version="23.0.2" type="github">
   <diagram name="第 1 页" id="zfYBY81wI52e2WfOy3RK">
-    <mxGraphModel>
+    <mxGraphModel dx="250" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o_N5pAIZrDj3n4O36afN-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o_N5pAIZrDj3n4O36afN-2" value="$$y^m_i$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
